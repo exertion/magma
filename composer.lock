@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b28fd73939216d20cf987c27ed43ffef",
+    "packages": [
+        {
+            "name": "exertion/magma-framework",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/exertion/magma-framework.git",
+                "reference": "b31346e9cbdde26bafc4c46ed199028d1c9ac220"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/exertion/magma-framework/zipball/b31346e9cbdde26bafc4c46ed199028d1c9ac220",
+                "reference": "b31346e9cbdde26bafc4c46ed199028d1c9ac220",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Bright\\": "src/Bright"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "The Magma WordPress Plugin Framework.",
+            "time": "2020-02-23T17:15:10+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "exertion/magma-framework": 20
+    },
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^7.2"
+    },
+    "platform-dev": []
+}

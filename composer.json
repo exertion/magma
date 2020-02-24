@@ -9,7 +9,7 @@
     },
     "require": {
         "php": "^7.2",
-        "exertion/magma-framework": "^1.0"
+        "exertion/magma-framework": "dev-master"
     },
     "autoload": {
         "psr-4": {
