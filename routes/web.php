@@ -8,3 +8,8 @@ use Spotlight\Routing\Web as Route;
 |--------------------------------------------------------------------------
 |
 */
+
+Route::get('/hello', function () {
+    return 'Hello World!';
+});
+

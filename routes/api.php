@@ -8,3 +8,8 @@ use Spotlight\Routing\Api as Route;
 |--------------------------------------------------------------------------
 |
 */
+
+Route::get('/hello', function () {
+    return 'Hello World!';
+});
+
