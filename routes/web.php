@@ -1,5 +1,7 @@
 <?php
 
+use Spotlight\Routing\Web as Route;
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
