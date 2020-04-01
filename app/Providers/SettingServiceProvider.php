@@ -19,7 +19,7 @@ class SettingServiceProvider
     }
 
     /**
-     * Finish configuring Spark for the application.
+     * Configure the settings page declaring tabs and options.
      *
      * @return void
      */
