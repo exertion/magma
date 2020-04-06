@@ -16,5 +16,5 @@ $plugin = new Spotlight\Foundation\Application(__DIR__);
 
 function config($option, $default = null) {
     $config = new Spotlight\Foundation\Config(__DIR__, __FILE__);
-    return $config->config($option, $default = null);
+    return $config->config($option, $default);
 }
