@@ -1,11 +1,11 @@
 <?php
 /**
- * @package Magma
+ * @package Magma Framework
  * @version 1.0.0
  */
 /*
 Plugin Name: Magma
-Description: The Magma WordPress Plugin Framework.
+Description: Utilise the Magma WordPress Plugin Framework to begin building your next awesome plugin. To get started you can read the docs at <a href="https://magma.exertion.co">magma.exertion.co</a>.
 Author: Exertion
 Version: 1.0.0
 Author URI: https://exertion.co
